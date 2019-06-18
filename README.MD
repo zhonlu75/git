@@ -1,2 +1,2 @@
 git tutorial
-switch to feature
+switch to feature B

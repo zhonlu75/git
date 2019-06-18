@@ -1,2 +1,6 @@
 git tutorial
-switch to feature
+<<<<<<< HEAD
+master
+=======
+switch to feature-A
+>>>>>>> feature_a

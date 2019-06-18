@@ -1,5 +1,7 @@
 git tutorial
+<<<<<<< HEAD
 master
 switch to feature_a
+=======
 switch to feature B
-
+>>>>>>> fix-B
